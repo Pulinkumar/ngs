@@ -1,4 +1,4 @@
-//function(exports, module, require, __filename, __dirname){
+//function(exports, require, module, __filename, __dirname){
 
 exports.p = 55;
 module.exports.r = 66;
