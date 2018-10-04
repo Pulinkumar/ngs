@@ -1,3 +1,5 @@
+// node --inspect-brk 4-bug.js
+
 function convertArrayToObject(arr) {
   return arr.reduce((curr, acc) => {
     acc[curr[0]] = curr[1];
